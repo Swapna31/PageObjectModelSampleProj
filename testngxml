@@ -5,7 +5,7 @@
 <listeners>
 		<listener class-name="com.Internet.qa.extentreportlistener.ExtentReporterNG" />
 	</listeners>
-  <test name="Smoketest1" >
+  <test name="Smoketest" >
     <classes>
        <class name="com.Internet.qa.testcases.HomePagetestcases" />
     </classes>
