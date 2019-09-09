@@ -25,7 +25,7 @@ public void browserinitialisation()
 	}
 public void TestMethod()
 {
-	
+	System.out.println("Test method added");
 }
 /*	@Test
 	public void LinksinaPage()
