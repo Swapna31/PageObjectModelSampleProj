@@ -15,12 +15,18 @@ import com.Internet.qa.pages.HomePage;
 public class HomePagetestcases extends TestBase
 {HomePage homepg;
 	
+//This method will execute before every method.
+
 @BeforeMethod
 public void browserinitialisation()
 	{
 		SetUp();
 		HomePage homepg=new HomePage();
 	}
+public void TestMethod()
+{
+	
+}
 /*	@Test
 	public void LinksinaPage()
 	    {
